@@ -89,3 +89,4 @@ This app and its data handling practices comply with:
 ---
 
 *This is an internal business application developed and operated by Alliance Legal Solutions, LLC for its own business purposes. It is not intended for public distribution or use by external parties.*
+
