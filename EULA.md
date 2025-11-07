@@ -7,7 +7,7 @@
 By using the Aging Report application ("the App"), you agree to be bound by this End-User License Agreement ("Agreement").
 
 ## 2. License Grant
-Alliance Legal Systems Corp. grants you a non-exclusive, non-transferable license to use the App for internal business purposes related to accounts receivable management and financial reporting.
+Alliance Legal Solutions, LLC grants you a non-exclusive, non-transferable license to use the App for internal business purposes related to accounts receivable management and financial reporting.
 
 ## 3. Permitted Use
 The App may be used to:
@@ -38,7 +38,7 @@ You may NOT:
 - You may revoke access at any time through QuickBooks settings
 
 ## 7. Intellectual Property
-- The App and its content are owned by Alliance Legal Systems Corp.
+- The App and its content are owned by Alliance Legal Solutions, LLC
 - QuickBooks and QuickBooks Online are trademarks of Intuit Inc.
 - All rights not expressly granted are reserved
 
@@ -49,7 +49,7 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. We do not warrant that
 - The App will meet your specific requirements
 
 ## 9. Limitation of Liability
-Alliance Legal Systems Corp. shall not be liable for:
+Alliance Legal Solutions, LLC shall not be liable for:
 - Indirect, incidental, or consequential damages
 - Loss of data or business interruption
 - Damages arising from QuickBooks API changes or outages
@@ -90,8 +90,8 @@ You agree to:
 
 ## 14. Support
 Support for the App is provided by:
-- Email: [your-support-email@alliance.com]
-- Business Hours: [Your Support Hours]
+- Email: it@alliancefundings.com
+- Business Hours: Mon - Fri 9am - 5pm
 
 ## 15. Third-Party Services
 The App relies on:
@@ -99,26 +99,28 @@ The App relies on:
 - **Microsoft Azure** - Subject to Microsoft's terms
 
 ## 16. Indemnification
-You agree to indemnify Alliance Legal Systems Corp. against claims arising from your use of the App or violation of this Agreement.
+You agree to indemnify Alliance Legal Solutions, LLC against claims arising from your use of the App or violation of this Agreement.
 
 ## 17. Governing Law
-This Agreement is governed by the laws of [Your State/Country], without regard to conflict of law provisions.
+This Agreement is governed by the laws of the state of North Carolina, USA, without regard to conflict of law provisions.
 
 ## 18. Entire Agreement
-This Agreement, together with our Privacy Policy, constitutes the entire agreement between you and Alliance Legal Systems Corp. regarding the App.
+This Agreement, together with our Privacy Policy, constitutes the entire agreement between you and Alliance Legal Solutions, LLC regarding the App.
 
 ## 19. Contact Information
 For questions about this Agreement:
 
-**Alliance Legal Systems Corp.**  
-Email: [your-legal@alliance.com]  
-Address: [Your Business Address]
+**Alliance Legal Solutions, LLC**  
+Legal Inquiries: legal@alliancelegal.com  
+Technical Support: it@alliancelegal.com  
+Address: 5970 Fairview Rd, Suite 601, Charlotte, NC 28210
 
 ## 20. Acknowledgment
 By using the App, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms.
 
 ---
 
-**Alliance Legal Systems Corp.**  
+**Alliance Legal Solutions, LLC**  
 Version 1.0  
 Last Updated: November 7, 2025
+
