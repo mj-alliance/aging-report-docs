@@ -77,7 +77,7 @@ For questions about this privacy policy or data handling:
 **Alliance Legal Solutions, LLC**  
 Business Address: 5970 Fairview Rd, Suite 601, Charlotte, NC 28210  
 Privacy/Legal Inquiries: legal@alliancefundings.com  
-Technical Support: it@alliancefunding.com
+Technical Support: it@alliancefundings.com
 
 ## Compliance
 This app and its data handling practices comply with:
@@ -89,6 +89,7 @@ This app and its data handling practices comply with:
 ---
 
 *This is an internal business application developed and operated by Alliance Legal Solutions, LLC for its own business purposes. It is not intended for public distribution or use by external parties.*
+
 
 
 
