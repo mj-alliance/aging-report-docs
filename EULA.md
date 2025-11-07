@@ -123,7 +123,7 @@ For questions about this Agreement:
 **Alliance Legal Solutions, LLC**  
 Business Address:  5970 Fairview Rd, Suite 601, Charlotte, NC 28210  
 Legal Inquiries: legal@alliancefundings.com  
-Technical Support: it@alliancefunding.com
+Technical Support: it@alliancefundings.com
 
 ## 20. Acknowledgment
 By using the App, authorized employees acknowledge that they have read this Agreement, understand it, and agree to be bound by its terms and Alliance Legal Solutions, LLC's internal policies.
@@ -134,5 +134,6 @@ By using the App, authorized employees acknowledge that they have read this Agre
 Internal Application - For Authorized Use Only  
 Version 1.0  
 Last Updated: November 7, 2025
+
 
 
