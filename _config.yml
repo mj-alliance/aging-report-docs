@@ -1,12 +1,15 @@
 # GitHub Pages Configuration
 title: "Aging Report Application"
 description: "Legal documentation for internal business application"
-show_downloads: false
 
-# Hide the repository name
+# Remove GitHub branding
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
+
+# Use minimal theme without GitHub links
 theme: jekyll-theme-minimal
 
-# Optional: Add a custom header
-header_pages:
-  - PRIVACY_POLICY.md
-  - EULA.md
+# Don't show repository information
+repository_url: false
