@@ -4,124 +4,132 @@
 **Effective Date:** November 7, 2025
 
 ## 1. Agreement to Terms
-By using the Aging Report application ("the App"), you agree to be bound by this End-User License Agreement ("Agreement").
+By using the Aging Report application ("the App"), authorized employees of Alliance Legal Solutions, LLC agree to be bound by this End-User License Agreement ("Agreement").
 
 ## 2. License Grant
-Alliance Legal Solutions, LLC grants you a non-exclusive, non-transferable license to use the App for internal business purposes related to accounts receivable management and financial reporting.
+Alliance Legal Solutions, LLC grants its authorized employees a non-exclusive, non-transferable license to use the App for internal business purposes related to accounts receivable management and financial reporting.
 
 ## 3. Permitted Use
-The App may be used to:
-- Access QuickBooks Online data for authorized business purposes
-- Generate aging reports
+Authorized employees may use the App to:
+- Access Alliance Legal Solutions, LLC's QuickBooks Online data for authorized business purposes
+- Generate aging reports for internal use
 - Analyze customer payment patterns
 - Track outstanding balances
-- Create financial reports
+- Create financial reports for management
 
 ## 4. Restrictions
-You may NOT:
-- Distribute or share the App with unauthorized parties
+Users may NOT:
+- Share the App or access credentials with unauthorized parties outside Alliance Legal Solutions, LLC
+- Use the App for personal or non-business purposes
 - Reverse engineer, decompile, or disassemble the App
 - Use the App for any unlawful purpose
 - Attempt to circumvent any security measures
-- Share your QuickBooks access credentials
+- Share QuickBooks access credentials with unauthorized personnel
 
 ## 5. Data Access and Privacy
-- The App requires access to your QuickBooks Online data
-- You authorize the App to access QuickBooks data on your behalf
-- Your use of the App is subject to our Privacy Policy
-- You are responsible for maintaining the confidentiality of your login credentials
+- The App accesses Alliance Legal Solutions, LLC's QuickBooks Online account
+- Users are authorized to access company QuickBooks data for legitimate business purposes only
+- Use of the App is subject to Alliance Legal Solutions, LLC's Privacy Policy
+- Users are responsible for maintaining the confidentiality of their login credentials
+- All data accessed remains the property of Alliance Legal Solutions, LLC
 
 ## 6. QuickBooks Integration
-- The App integrates with QuickBooks Online via official APIs
-- You must have a valid QuickBooks Online subscription
-- You must authorize the App to access your QuickBooks account
-- You may revoke access at any time through QuickBooks settings
+- The App integrates with QuickBooks Online via official Intuit APIs
+- Alliance Legal Solutions, LLC maintains a valid QuickBooks Online subscription
+- The company has authorized the App to access its QuickBooks account
+- Management may revoke App access at any time through QuickBooks settings
 
 ## 7. Intellectual Property
 - The App and its content are owned by Alliance Legal Solutions, LLC
 - QuickBooks and QuickBooks Online are trademarks of Intuit Inc.
+- All company data accessed through the App remains the property of Alliance Legal Solutions, LLC
 - All rights not expressly granted are reserved
 
 ## 8. Warranties and Disclaimers
-THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. We do not warrant that:
+THE APP IS PROVIDED "AS IS" FOR INTERNAL USE. Alliance Legal Solutions, LLC does not warrant that:
 - The App will be error-free or uninterrupted
-- All data will be accurate
-- The App will meet your specific requirements
+- All data will be accurate or complete
+- The App will meet all specific business requirements
+
+Users should verify critical data against source systems.
 
 ## 9. Limitation of Liability
-Alliance Legal Solutions, LLC shall not be liable for:
-- Indirect, incidental, or consequential damages
-- Loss of data or business interruption
-- Damages arising from QuickBooks API changes or outages
-
-Maximum liability is limited to the amount paid for the App license (if any).
+Alliance Legal Solutions, LLC's liability for App-related issues is governed by internal company policies and employment agreements.
 
 ## 10. Data Security
-We implement reasonable security measures including:
+Alliance Legal Solutions, LLC implements reasonable security measures including:
 - Encrypted data transmission (HTTPS/TLS)
 - Secure database storage (Azure SQL)
 - OAuth 2.0 authentication
 - Regular security updates
+- Access controls and monitoring
 
 ## 11. Termination
-This license may be terminated:
-- By you at any time by discontinuing use of the App
-- By us if you violate any terms of this Agreement
-- Automatically if you revoke QuickBooks access
+Access to the App may be terminated:
+- When an employee leaves the company
+- If an employee violates company IT policies
+- If an employee no longer requires access for business purposes
+- At management's discretion
 
 Upon termination:
-- Your right to use the App ceases immediately
-- You should disconnect the App from your QuickBooks account
-- Stored data may be retained for business record purposes
+- User access is revoked immediately
+- Users must cease all use of the App
+- Company data remains the property of Alliance Legal Solutions, LLC
 
 ## 12. Updates and Modifications
-We reserve the right to:
+Alliance Legal Solutions, LLC reserves the right to:
 - Update or modify the App
 - Change features or functionality
-- Update this Agreement with notice
+- Update this Agreement with notice to users
 
 Continued use after changes constitutes acceptance of the new terms.
 
 ## 13. Compliance
-You agree to:
-- Use the App in compliance with all applicable laws
-- Comply with QuickBooks Online terms of service
-- Maintain accurate business records
+Users agree to:
+- Use the App in compliance with all applicable laws and company policies
+- Follow Alliance Legal Solutions, LLC's IT security policies
+- Maintain confidentiality of company financial data
+- Report any security concerns or data breaches immediately
 
 ## 14. Support
 Support for the App is provided by:
-- Email: it@alliancefundings.com
-- Business Hours: Mon - Fri 9am - 5pm
+- Technical Support: it@alliancefunding.com
+- Business Hours: Standard business hours
 
 ## 15. Third-Party Services
 The App relies on:
-- **Intuit QuickBooks Online** - Subject to Intuit's terms
-- **Microsoft Azure** - Subject to Microsoft's terms
+- **Intuit QuickBooks Online** - Subject to Intuit's terms of service
+- **Microsoft Azure** - Subject to Microsoft's terms of service
 
-## 16. Indemnification
-You agree to indemnify Alliance Legal Solutions, LLC against claims arising from your use of the App or violation of this Agreement.
+Alliance Legal Solutions, LLC maintains agreements with these service providers.
+
+## 16. Employee Responsibilities
+Users are responsible for:
+- Using the App only for authorized business purposes
+- Protecting their login credentials
+- Reporting any suspicious activity
+- Following company data handling policies
+- Maintaining confidentiality of financial information
 
 ## 17. Governing Law
-This Agreement is governed by the laws of the state of North Carolina, USA, without regard to conflict of law provisions.
+This Agreement is governed by the laws of North Carolina, without regard to conflict of law provisions.
 
 ## 18. Entire Agreement
-This Agreement, together with our Privacy Policy, constitutes the entire agreement between you and Alliance Legal Solutions, LLC regarding the App.
+This Agreement, together with Alliance Legal Solutions, LLC's Privacy Policy and Employee Handbook, constitutes the agreement regarding use of the App.
 
 ## 19. Contact Information
 For questions about this Agreement:
 
 **Alliance Legal Solutions, LLC**  
 Legal Inquiries: legal@alliancefundings.com  
-Technical Support: it@alliancefundings.com  
-Address: 5970 Fairview Rd, Suite 601, Charlotte, NC 28210
+Technical Support: it@alliancefunding.com
 
 ## 20. Acknowledgment
-By using the App, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms.
+By using the App, authorized employees acknowledge that they have read this Agreement, understand it, and agree to be bound by its terms and Alliance Legal Solutions, LLC's internal policies.
 
 ---
 
 **Alliance Legal Solutions, LLC**  
+Internal Application - For Authorized Use Only  
 Version 1.0  
 Last Updated: November 7, 2025
-
-
