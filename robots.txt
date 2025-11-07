@@ -1,0 +1,3 @@
+# Prevent search engines from indexing these pages
+User-agent: *
+Disallow: /
