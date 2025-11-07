@@ -111,8 +111,8 @@ This Agreement, together with our Privacy Policy, constitutes the entire agreeme
 For questions about this Agreement:
 
 **Alliance Legal Solutions, LLC**  
-Legal Inquiries: legal@alliancelegal.com  
-Technical Support: it@alliancelegal.com  
+Legal Inquiries: legal@alliancefundings.com  
+Technical Support: it@alliancefundings.com  
 Address: 5970 Fairview Rd, Suite 601, Charlotte, NC 28210
 
 ## 20. Acknowledgment
@@ -123,4 +123,5 @@ By using the App, you acknowledge that you have read this Agreement, understand 
 **Alliance Legal Solutions, LLC**  
 Version 1.0  
 Last Updated: November 7, 2025
+
 
